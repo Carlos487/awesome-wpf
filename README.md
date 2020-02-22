@@ -7,6 +7,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [General](#general)
 * [UI Controls](#ui-controls)
 * [Themes](#themes)
+* [Books](#books)
 
 ## General 
 
@@ -38,6 +39,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort
 * [Material Design In XAML Toolkit](http://materialdesigninxaml.net/) - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications
+
+## Books
+
+* [Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 ](https://www.amazon.com/Pro-WPF-4-5-Presentation-Foundation/dp/1430243651/ref=dp_ob_image_bk) - (4th Edition) by Matthew MacDonald 
+* [Programming WPF](https://www.amazon.com/dp/0596510373/) - (2nd Edition) by Chris Sells
+* [WPF 4.5 Unleashed](https://www.amazon.com/WPF-4-5-Unleashed-Adam-Nathan/dp/0672336979/) - (1st Edition) by Adam Nathan 
 
 ## License
 
