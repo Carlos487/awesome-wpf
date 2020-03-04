@@ -6,6 +6,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 * [General](#general)
 * [UI Controls](#ui-controls)
+* [Fonts](#fonts)
 * [Themes](#themes)
 * [Books](#books)
 
@@ -33,6 +34,13 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [LiveCharts](https://lvcharts.net/) - (FREE, OPEN SOURCE) Simple, flexible, interactive & powerful data visualization for .Net
 * [LoadingIndicators.WPF](https://github.com/zeluisping/LoadingIndicators.WPF) - (FREE, OPEN SOURCE) OxyPlot is a cross-platform plotting library for .NET.
 * [OxyPlot](https://oxyplot.github.io/) - (FREE, OPEN SOURCE) LoadingIndicators.WPF is a collection of 8 animated loading indicators for WPF compatible with MahApps.Metro
+
+## Fonts
+
+* [FontAwesome5](https://github.com/MartinTopfstedt/FontAwesome5) - (FREE, OPEN SOURCE) WPF (.Net and .Net Core 3.0) and UWP controls for the iconic SVG, font, and CSS toolkit Font Awesome 5. Current Version: v5.12.0
+* [FontAwesome.Sharp](https://github.com/awesome-inc/FontAwesome.Sharp) - (FREE, OPEN SOURCE) A library for embbeding Font Awesome icons in WPF & Windows Forms applications via NuGet. Inspired by ioachim/fontawesome.wpf (BitBucket) and Using Font Icons (CodeProject).
+* [Font-Awesome-WPF 4.7](https://github.com/charri/Font-Awesome-WPF/blob/master/README-WPF.md) - (FREE, OPEN SOURCE) WPF controls for the iconic font and CSS toolkit Font Awesome. Current Version: v4.7.0
+* [wpf.fontawesome5](https://github.com/SubEthaSensOMatic/wpf.fontawesome5) - (FREE, OPEN SOURCE) With wpf.fontawesome5 you can use the popular icon library FontAwesome 5.12.0 within your WPF applications.
 
 ## Themes
 
