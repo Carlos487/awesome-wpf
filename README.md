@@ -9,6 +9,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Fonts](#fonts)
 * [Themes](#themes)
 * [Libraries](#libraries)
+* [Utilities](#utilities)
 * [Books](#books)
 
 ## General 
@@ -40,6 +41,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [LiveCharts](https://lvcharts.net/) - (FREE, OPEN SOURCE) Simple, flexible, interactive & powerful data visualization for .Net
 * [LoadingIndicators.WPF](https://github.com/zeluisping/LoadingIndicators.WPF) - (FREE, OPEN SOURCE) OxyPlot is a cross-platform plotting library for .NET.
 * [OxyPlot](https://oxyplot.github.io/) - (FREE, OPEN SOURCE) LoadingIndicators.WPF is a collection of 8 animated loading indicators for WPF compatible with MahApps.Metro
+* [WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) - (FREE, OPEN SOURCE) A library to quickly build DirectShow media player controls in WPF. The kit comes with a video player MediaUriElement (a WPF MediaElement replacement), a VideoCaptureElement for web cams and a DVDPlayerElement.
 
 ## Fonts
 
@@ -57,7 +59,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 ## Libraries
 
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - (FREE, OPEN SOURCE) An easy to use drag'n'drop framework for WPF.
+* [Prism](https://github.com/PrismLibrary/Prism) - (FREE, OPEN SOURCE) Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, and Xamarin Forms.
 * [WPF Animated GIF](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - (FREE, OPEN SOURCE) A simple library to display animated GIF images in WPF, usable in XAML or in code.
+
+## Utilities
+
+* [Snoop](https://github.com/snoopwpf/snoopwpf) - (FREE, OPEN SOURCE) Snoop is the open source WPF spying utility. It allows you to spy/browse the visual tree of a running application.
 
 ## Books
 
