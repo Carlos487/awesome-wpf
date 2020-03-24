@@ -23,6 +23,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ### Control Suites
 
+* [ControlzEx](https://github.com/ControlzEx/ControlzEx) - (FREE, OPEN SOURCE) Shared Controlz for WPF
 * [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) - (FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications
 * [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort
 * [Material Design Extensions](https://github.com/spiegelp/MaterialDesignExtensions) - (FREE, OPEN SOURCE) Material Design Extensions is based on Material Design in XAML Toolkit to provide additional controls and features for WPF apps.
@@ -37,14 +38,21 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 * [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - (FREE, OPEN SOURCE) AvalonEdit is the name of the WPF-based text editor in SharpDevelop 4.x
 * [CefSharp](https://github.com/cefsharp/cefsharp) - (FREE, OPEN SOURCE) .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
+* [ConsoleControl](https://github.com/dwmkerr/consolecontrol) - (FREE, OPEN SOURCE) ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) - (FREE, OPEN SOURCE) Tearable tab control for WPF, which includes docking, tool windows and MDI
+* [ffmediaelement](https://github.com/unosquare/ffmediaelement) - (FREE, OPEN SOURCE) FME: The Advanced WPF MediaElement (based on FFmpeg)
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - (FREE, OPEN SOURCE) Fluent.Ribbon is a library that implements an Office-like user interface for the Windows Presentation Foundation (WPF).
 * [Interactive Data Display for WPF](https://github.com/microsoft/InteractiveDataDisplay.WPF) - (FREE, OPEN SOURCE) Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application.
 * [LiveCharts](https://lvcharts.net/) - (FREE, OPEN SOURCE) Simple, flexible, interactive & powerful data visualization for .Net
 * [LoadingIndicators.WPF](https://github.com/zeluisping/LoadingIndicators.WPF) - (FREE, OPEN SOURCE) LoadingIndicators.WPF is a collection of 8 animated loading indicators for WPF compatible with MahApps.Metro
+* [Mapsui](https://mapsui.com) - (FREE, OPEN SOURCE) Mapsui is a .NET Map component for WPF, UWP and Xamarin Android and iOS.
+* [mpv.net](https://github.com/stax76/mpv.net) - (FREE, OPEN SOURCE) mpv.net is a modern media player for Windows that works just like mpv.
 * [Notifications.Wpf](https://github.com/Federerer/Notifications.Wpf) - (FREE, OPEN SOURCE) WPF toast notifications.
 * [OxyPlot](https://oxyplot.github.io/) - (FREE, OPEN SOURCE) OxyPlot is a cross-platform plotting library for .NET.
+* [PropertyTools](https://github.com/PropertyTools/PropertyTools) - (FREE, OPEN SOURCE) Custom controls for WPF: PropertyGrid, DataGrid, multi-select TreeView, ColorPicker and more
 * [WPFCustomMessageBox](https://github.com/evanwon/WPFCustomMessageBox) - (FREE, OPEN SOURCE) WPFCustomMessageBox is a WPF clone of the native Windows/.NET MessageBox with extra features like custom button text.
+* [wpfchrometabs](https://github.com/realistschuckle/wpfchrometabs) - (FREE, OPEN SOURCE) A WPF custom tab control built from the ground up to mimic the user experience found in Google's Chrome browser.
+* [WPFToastNotification](https://github.com/muhammad-magdy/WPFToastNotification) - (FREE, OPEN SOURCE) Fancy toast notification for WPF applications easy to use and support MVVM pattern.
 * [Wpf.Notifications](https://github.com/Enterwell/Wpf.Notifications) - (FREE, OPEN SOURCE) WPF notifications UI controls (as seen in VS Code)
 * [WPF-Math](https://github.com/ForNeVeR/wpf-math) - (FREE, OPEN SOURCE) WPF-Math is a .NET library for rendering mathematical formulae using the LaTeX typsetting style, for the WPF framework.
 * [WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) - (FREE, OPEN SOURCE) A library to quickly build DirectShow media player controls in WPF. The kit comes with a video player MediaUriElement (a WPF MediaElement replacement), a VideoCaptureElement for web cams and a DVDPlayerElement.
@@ -64,9 +72,13 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ## Libraries
 
+* [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - (FREE, OPEN SOURCE) A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability. 
 * [FluentWPF](https://github.com/sourcechord/FluentWPF) - (FREE, OPEN SOURCE) Fluent Design System for WPF.
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - (FREE, OPEN SOURCE) An easy to use drag'n'drop framework for WPF.
+* [MVVM Light Toolkit](http://www.mvvmlight.net/) - (FREE, OPEN SOURCE) The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.
+* [MvvmCross](https://github.com/MvvmCross/MvvmCross) - (FREE, OPEN SOURCE) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 * [Prism](https://github.com/PrismLibrary/Prism) - (FREE, OPEN SOURCE) Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, and Xamarin Forms.
+* [ReactiveUI](https://reactiveui.net/) - (FREE, OPEN SOURCE) An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms!
 * [WPF Animated GIF](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - (FREE, OPEN SOURCE) A simple library to display animated GIF images in WPF, usable in XAML or in code.
 * [WPFTabTip](https://github.com/maximcus/WPFTabTip) - (FREE, OPEN SOURCE) Simple TabTip / Virtual Keyboard integration for WPF apps on Win 8.1 and Win 10
 
