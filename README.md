@@ -40,8 +40,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [CefSharp](https://github.com/cefsharp/cefsharp) - (FREE, OPEN SOURCE) .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
 * [ConsoleControl](https://github.com/dwmkerr/consolecontrol) - (FREE, OPEN SOURCE) ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) - (FREE, OPEN SOURCE) Tearable tab control for WPF, which includes docking, tool windows and MDI
+* [Emoji.Wpf](https://github.com/samhocevar/emoji.wpf) - (FREE, OPEN SOURCE, EXPERIMENTAL) Emoji.Wpf is a proof of concept implementation of Emoji for WPF.
 * [ffmediaelement](https://github.com/unosquare/ffmediaelement) - (FREE, OPEN SOURCE) FME: The Advanced WPF MediaElement (based on FFmpeg)
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - (FREE, OPEN SOURCE) Fluent.Ribbon is a library that implements an Office-like user interface for the Windows Presentation Foundation (WPF).
+* [Hardcodet NotifyIcon for WPF](https://github.com/hardcodet/wpf-notifyicon) - (FREE, OPEN SOURCE) This is an implementation of a NotifyIcon (aka system tray icon or taskbar icon) for the WPF platform.
 * [Interactive Data Display for WPF](https://github.com/microsoft/InteractiveDataDisplay.WPF) - (FREE, OPEN SOURCE) Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application.
 * [LiveCharts](https://lvcharts.net/) - (FREE, OPEN SOURCE) Simple, flexible, interactive & powerful data visualization for .Net
 * [LoadingIndicators.WPF](https://github.com/zeluisping/LoadingIndicators.WPF) - (FREE, OPEN SOURCE) LoadingIndicators.WPF is a collection of 8 animated loading indicators for WPF compatible with MahApps.Metro
@@ -50,6 +52,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Notifications.Wpf](https://github.com/Federerer/Notifications.Wpf) - (FREE, OPEN SOURCE) WPF toast notifications.
 * [OxyPlot](https://oxyplot.github.io/) - (FREE, OPEN SOURCE) OxyPlot is a cross-platform plotting library for .NET.
 * [PropertyTools](https://github.com/PropertyTools/PropertyTools) - (FREE, OPEN SOURCE) Custom controls for WPF: PropertyGrid, DataGrid, multi-select TreeView, ColorPicker and more
+* [WPF AutoComplete TextBox](https://github.com/quicoli/WPF-AutoComplete-TextBox) - (FREE, OPEN SOURCE) An autocomplete TextBox for WPF
 * [WPFCustomMessageBox](https://github.com/evanwon/WPFCustomMessageBox) - (FREE, OPEN SOURCE) WPFCustomMessageBox is a WPF clone of the native Windows/.NET MessageBox with extra features like custom button text.
 * [wpfchrometabs](https://github.com/realistschuckle/wpfchrometabs) - (FREE, OPEN SOURCE) A WPF custom tab control built from the ground up to mimic the user experience found in Google's Chrome browser.
 * [WPFToastNotification](https://github.com/muhammad-magdy/WPFToastNotification) - (FREE, OPEN SOURCE) Fancy toast notification for WPF applications easy to use and support MVVM pattern.
@@ -69,6 +72,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort
 * [Material Design In XAML Toolkit](http://materialdesigninxaml.net/) - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications
+* [Wpf Office Theme](https://github.com/TanyaPristupova/WpfOfficeTheme) - (FREE, OPEN SOURCE) WPF theme influenced by minimalistic MS Office style
 
 ## Libraries
 
