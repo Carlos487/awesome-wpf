@@ -25,6 +25,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 * [ControlzEx](https://github.com/ControlzEx/ControlzEx) - (FREE, OPEN SOURCE) Shared Controlz for WPF
 * [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) - (FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications
+* [HandyControl](https://github.com/handyOrg/HandyControl) - (FREE, OPEN SOURCE) Contains some simple and commonly used WPF controls 
 * [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort
 * [Material Design Extensions](https://github.com/spiegelp/MaterialDesignExtensions) - (FREE, OPEN SOURCE) Material Design Extensions is based on Material Design in XAML Toolkit to provide additional controls and features for WPF apps.
 * [Material Design In XAML Toolkit](http://materialdesigninxaml.net/) - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls
@@ -38,6 +39,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 * [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - (FREE, OPEN SOURCE) AvalonEdit is the name of the WPF-based text editor in SharpDevelop 4.x
 * [CefSharp](https://github.com/cefsharp/cefsharp) - (FREE, OPEN SOURCE) .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
+* [ColorPickerWPF](https://github.com/drogoganor/ColorPickerWPF) - (FREE, OPEN SOURCE) A simple WPF color picker control for .NET 4.5.2 licensed under MIT. Contains two color gradient images to sample from, and custom palette support.
 * [ConsoleControl](https://github.com/dwmkerr/consolecontrol) - (FREE, OPEN SOURCE) ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) - (FREE, OPEN SOURCE) Tearable tab control for WPF, which includes docking, tool windows and MDI
 * [Emoji.Wpf](https://github.com/samhocevar/emoji.wpf) - (FREE, OPEN SOURCE, EXPERIMENTAL) Emoji.Wpf is a proof of concept implementation of Emoji for WPF.
@@ -52,9 +54,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Notifications.Wpf](https://github.com/Federerer/Notifications.Wpf) - (FREE, OPEN SOURCE) WPF toast notifications.
 * [OxyPlot](https://oxyplot.github.io/) - (FREE, OPEN SOURCE) OxyPlot is a cross-platform plotting library for .NET.
 * [PropertyTools](https://github.com/PropertyTools/PropertyTools) - (FREE, OPEN SOURCE) Custom controls for WPF: PropertyGrid, DataGrid, multi-select TreeView, ColorPicker and more
+* [Toggle Switch Control Library](https://github.com/ejensen/toggle-switch-control) - (FREE, OPEN SOURCE) The Toggle Switch Control Library creates highly customizable toggle switch controls for WPF and Silverlight apps.
 * [WPF AutoComplete TextBox](https://github.com/quicoli/WPF-AutoComplete-TextBox) - (FREE, OPEN SOURCE) An autocomplete TextBox for WPF
 * [WPFCustomMessageBox](https://github.com/evanwon/WPFCustomMessageBox) - (FREE, OPEN SOURCE) WPFCustomMessageBox is a WPF clone of the native Windows/.NET MessageBox with extra features like custom button text.
 * [wpfchrometabs](https://github.com/realistschuckle/wpfchrometabs) - (FREE, OPEN SOURCE) A WPF custom tab control built from the ground up to mimic the user experience found in Google's Chrome browser.
+* [WpfHexEditorControl](https://github.com/abbaye/WpfHexEditorControl) - (FREE, OPEN SOURCE) Wpf Hexeditor is a fast and fully customisable user control for editing file or stream as hexadecimal. Can be used in Wpf or WinForm application
 * [WPFToastNotification](https://github.com/muhammad-magdy/WPFToastNotification) - (FREE, OPEN SOURCE) Fancy toast notification for WPF applications easy to use and support MVVM pattern.
 * [Wpf.Notifications](https://github.com/Enterwell/Wpf.Notifications) - (FREE, OPEN SOURCE) WPF notifications UI controls (as seen in VS Code)
 * [WPF-Math](https://github.com/ForNeVeR/wpf-math) - (FREE, OPEN SOURCE) WPF-Math is a .NET library for rendering mathematical formulae using the LaTeX typsetting style, for the WPF framework.
