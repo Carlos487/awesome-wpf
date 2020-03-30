@@ -1,5 +1,7 @@
 # Awesome WPF [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+A collection of awesome WPF resources, libraries and UI controls.
+
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
 ## Contents
@@ -16,13 +18,16 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 * [Windows Presentation Foundation](https://docs.microsoft.com/en-us/dotnet/framework/wpf/) - Windows Presentation Foundation | Microsoft Docs
 * [Windows Presentation Foundation (WPF) | Github](https://github.com/dotnet/wpf) - Windows Presentation Foundation Github Repository | WPF is a .NET Core UI framework for building Windows desktop applications.
-* [WPF-Samples](https://github.com/microsoft/WPF-Samples) - Microsoft Repository for WPF related samples
-* [The complete WPF tutorial](https://www.wpf-tutorial.com/) - WPF tutorial, currently consisting of 125 articles
+* [WPF-Samples](https://github.com/microsoft/WPF-Samples) - Microsoft Repository for WPF related samples.
+* [WPF Tutorial.net](https://www.wpftutorial.net/) - The tutorials will show you how to create the next generation user experience.
+* [The complete WPF tutorial](https://www.wpf-tutorial.com/) - WPF tutorial, currently consisting of 125 articles.
+* [Xamarin Forms WPF - Preview](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/other/wpf) - Xamarin.Forms now has preview support for the Windows Presentation Foundation (WPF). 
 
 ## UI Controls
 
 ### Control Suites
 
+* [ComponentOne Studio WPF](https://www.componentsource.com/product/componentone-studio-wpf) - (PAID, COMMERCIAL) ComponentOne Studio WPF Edition is a collection of easy to use WPF components currently including grids, charting, reporting and scheduling controls.
 * [ControlzEx](https://github.com/ControlzEx/ControlzEx) - (FREE, OPEN SOURCE) Shared Controlz for WPF
 * [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) - (FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications
 * [HandyControl](https://github.com/handyOrg/HandyControl) - (FREE, OPEN SOURCE) Contains some simple and commonly used WPF controls 
@@ -31,8 +36,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Material Design In XAML Toolkit](http://materialdesigninxaml.net/) - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls
 * [Modern UI for WPF (MUI)](https://github.com/firstfloorsoftware/mui) - (FREE, OPEN SOURCE) A set of controls and styles converting your WPF application into a great looking Modern UI app. 
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications
-* [Nevron UI for Win/Mac](https://www.nevron.com/products-open-vision-wpf-ui-controls-overview.aspx) - (FREE) Nevron User Interface Components for WPF | NOV User Interface for .NET - (FREE, OPEN SOURCE) Material Design 
-* [Telerik UI for WPF](https://www.telerik.com/products/wpf/overview.aspx) - (PAID) Telerik UI for WPF | Build beautiful and high-performance WPF business applications fast
+* [Nevron UI for Win/Mac](https://www.nevron.com/products-open-vision-wpf-ui-controls-overview.aspx) - (FREE) Nevron User Interface Components for WPF | NOV User Interface for .NET 
+* [Telerik UI for WPF](https://www.telerik.com/products/wpf/overview.aspx) - (PAID, COMMERCIAL) Telerik UI for WPF | Build beautiful and high-performance WPF business applications fast
 * [WPFSpark](https://github.com/ratishphilip/wpfspark) - (FREE, OPEN SOURCE) A rich UserControl library to enhance the look and feel of WPF applications. 
 
 ### Individual Controls
@@ -89,6 +94,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [ReactiveUI](https://reactiveui.net/) - (FREE, OPEN SOURCE) An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms!
 * [WPF Animated GIF](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - (FREE, OPEN SOURCE) A simple library to display animated GIF images in WPF, usable in XAML or in code.
 * [WPFTabTip](https://github.com/maximcus/WPFTabTip) - (FREE, OPEN SOURCE) Simple TabTip / Virtual Keyboard integration for WPF apps on Win 8.1 and Win 10
+* [Xamarin.Forms.Platform.WPF](https://www.nuget.org/packages/Xamarin.Forms.Platform.WPF/) - (FREE, OPEN SOURCE) Xamarin Forms Renderer to build native UIs for WPF
 
 ## Utilities
 
