@@ -12,6 +12,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Themes](#themes)
 * [Libraries](#libraries)
 * [Utilities](#utilities)
+* [Courses](#courses)
 * [Books](#books)
 
 ## General 
@@ -100,6 +101,14 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 * [Snoop](https://github.com/snoopwpf/snoopwpf) - (FREE, OPEN SOURCE) Snoop is the open source WPF spying utility. It allows you to spy/browse the visual tree of a running application.
 
+# Courses
+
+* [Advanced Reusable Styles and Themes in WPF](https://www.pluralsight.com/courses/wpf-advanced-reusable-styles-themes) - (PAID, PLURALSIGHT) Take your WPF XAML skills to the next level by learning how to make modern reusable styles and themes with runtime theme switching. If you've ever wanted to implement light and dark themes in your apps, then this course will show you how.
+* [Learning Windows Presentation Foundation (WPF)](https://www.udemy.com/course/learning-wpf-course/) - (PAID, UDEMY) A complete guide to build robust and scalable applications with Windows Presentation Foundation (WPF).
+* [WPF Data Binding in Depth](https://www.pluralsight.com/courses/wpf-data-binding-in-depth) - (PAID, PLURALSIGHT) Data binding is one of the most powerful and important capabilities in WPF applications for building data-driven, loosely coupled, maintainable applications. In this course you will learn how to use the end-to-end capabilities of data binding in WPF including both the most common features as well as more advanced capabilities.
+* [WPF MVVM in Depth](https://www.pluralsight.com/courses/wpf-mvvm-in-depth) - (PAID, PLURALSIGHT) This course provides end-to-end coverage of what you need to know to effectively apply the MVVM pattern to WPF applications.
+* [WPF Productivity Playbook](https://www.pluralsight.com/courses/wpf-productivity-playbook) - (PAID, PLURALSIGHT) This course contains a collection of tips, tricks, and techniques that will help you become a more productive and confident WPF developer, able to leverage the full power of the platform.
+
 ## Books
 
 * [Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 ](https://www.amazon.com/Pro-WPF-4-5-Presentation-Foundation/dp/1430243651/ref=dp_ob_image_bk) - (4th Edition) by Matthew MacDonald 
@@ -113,3 +122,4 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 ## Credits and sources
 
 [Top 10 WPF Libraries in 2017](https://nugetmusthaves.com/article/top-wpf-libraries)
+[6 Best WPF & XAML Courses & Tutorials](https://digitaldefynd.com/best-wpf-xaml-courses/)
