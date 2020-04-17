@@ -100,6 +100,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 ## Utilities
 
 * [Snoop](https://github.com/snoopwpf/snoopwpf) - (FREE, OPEN SOURCE) Snoop is the open source WPF spying utility. It allows you to spy/browse the visual tree of a running application.
+* [XAML Viewer](https://github.com/huangjia2107/XamlViewer) - (FREE, OPEN SOURCE) XAML Viewer is a lightweight XAML editor.
 
 # Courses
 
