@@ -51,6 +51,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Emoji.Wpf](https://github.com/samhocevar/emoji.wpf) - (FREE, OPEN SOURCE, EXPERIMENTAL) Emoji.Wpf is a proof of concept implementation of Emoji for WPF.
 * [ffmediaelement](https://github.com/unosquare/ffmediaelement) - (FREE, OPEN SOURCE) FME: The Advanced WPF MediaElement (based on FFmpeg)
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - (FREE, OPEN SOURCE) Fluent.Ribbon is a library that implements an Office-like user interface for the Windows Presentation Foundation (WPF).
+* [Gu.Wpf.Geometry](https://github.com/GuOrg/Gu.Wpf.Geometry) - (FREE, OPEN SOURCE) Small library with WPF geometries and shaders.
+* [Gu.Wpf.FlipView](https://github.com/GuOrg/Gu.Wpf.FlipView) - (FREE, OPEN SOURCE) A flipview for WPF, handles touch & mouse swipe.
 * [Hardcodet NotifyIcon for WPF](https://github.com/hardcodet/wpf-notifyicon) - (FREE, OPEN SOURCE) This is an implementation of a NotifyIcon (aka system tray icon or taskbar icon) for the WPF platform.
 * [Interactive Data Display for WPF](https://github.com/microsoft/InteractiveDataDisplay.WPF) - (FREE, OPEN SOURCE) Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application.
 * [LiveCharts](https://lvcharts.net/) - (FREE, OPEN SOURCE) Simple, flexible, interactive & powerful data visualization for .Net
