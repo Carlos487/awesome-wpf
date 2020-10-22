@@ -116,6 +116,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [WPF Productivity Playbook](https://www.pluralsight.com/courses/wpf-productivity-playbook) - (PAID, PLURALSIGHT) This course contains a collection of tips, tricks, and techniques that will help you become a more productive and confident WPF developer, able to leverage the full power of the platform.
 * [WPF & XAML: Build 10 WPF applications (C#) in 2020](https://www.udemy.com/course/wpf-xaml-c-sharp/) - (PAID, UDEMY) Learn XAML and WPF development on 10 projects. WPF/C# programming even for beginners
 
+# Tutorials (Video)
+
+* [WPF UI Programming (C#) By AngelSix](https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
+
 ## Books
 
 * [Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 ](https://www.amazon.com/Pro-WPF-4-5-Presentation-Foundation/dp/1430243651/ref=dp_ob_image_bk) - (4th Edition) by Matthew MacDonald 
