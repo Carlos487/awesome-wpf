@@ -118,6 +118,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 # Tutorials (Video)
 
+* [WPF UI Programming (C#) By AngelSix](https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
+
 ## Books
 
 * [Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 ](https://www.amazon.com/Pro-WPF-4-5-Presentation-Foundation/dp/1430243651/ref=dp_ob_image_bk) - (4th Edition) by Matthew MacDonald 
