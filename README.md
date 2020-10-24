@@ -13,6 +13,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Libraries](#libraries)
 * [Utilities](#utilities)
 * [Courses](#courses)
+* [Tutorials (Video)](#tutorials-video)
 * [Books](#books)
 
 ## General 
@@ -105,7 +106,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Snoop](https://github.com/snoopwpf/snoopwpf) - (FREE, OPEN SOURCE) Snoop is the open source WPF spying utility. It allows you to spy/browse the visual tree of a running application.
 * [XAML Viewer](https://github.com/huangjia2107/XamlViewer) - (FREE, OPEN SOURCE) XAML Viewer is a lightweight XAML editor.
 
-# Courses
+## Courses
 
 * [Advanced Reusable Styles and Themes in WPF](https://www.pluralsight.com/courses/wpf-advanced-reusable-styles-themes) - (PAID, PLURALSIGHT) Take your WPF XAML skills to the next level by learning how to make modern reusable styles and themes with runtime theme switching. If you've ever wanted to implement light and dark themes in your apps, then this course will show you how.
 * [Advanced Windows Presentation Foundation (WPF) Course](https://www.udemy.com/course/advanced-wpf-course/) - (PAID, UDEMY) Build interactive, efficient, and smart applications with Windows Presentation Foundation (WPF) using this course.
@@ -116,9 +117,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [WPF Productivity Playbook](https://www.pluralsight.com/courses/wpf-productivity-playbook) - (PAID, PLURALSIGHT) This course contains a collection of tips, tricks, and techniques that will help you become a more productive and confident WPF developer, able to leverage the full power of the platform.
 * [WPF & XAML: Build 10 WPF applications (C#) in 2020](https://www.udemy.com/course/wpf-xaml-c-sharp/) - (PAID, UDEMY) Learn XAML and WPF development on 10 projects. WPF/C# programming even for beginners
 
-# Tutorials (Video)
+## Tutorials (Video)
 
-* [WPF UI Programming (C#) By AngelSix](https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
+* [WPF UI Programming (C#) By AngelSix](https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M) - (FREE) WPF UI Programming (C#) Youtube Series contaning 45 videos related to WPF.
 
 ## Books
 
