@@ -97,6 +97,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [MvvmCross](https://github.com/MvvmCross/MvvmCross) - (FREE, OPEN SOURCE) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 * [Prism](https://github.com/PrismLibrary/Prism) - (FREE, OPEN SOURCE) Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, and Xamarin Forms.
 * [ReactiveUI](https://reactiveui.net/) - (FREE, OPEN SOURCE) An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms!
+* [UpbeatUI](https://github.com/michaelpduda/UpbeatUI) - (FREE, OPEN SOURCE) A lightweight MVVM framework for quickly developing mobile-style applications for Windows.
 * [WPF Animated GIF](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - (FREE, OPEN SOURCE) A simple library to display animated GIF images in WPF, usable in XAML or in code.
 * [WPFTabTip](https://github.com/maximcus/WPFTabTip) - (FREE, OPEN SOURCE) Simple TabTip / Virtual Keyboard integration for WPF apps on Win 8.1 and Win 10
 * [Xamarin.Forms.Platform.WPF](https://www.nuget.org/packages/Xamarin.Forms.Platform.WPF/) - (FREE, OPEN SOURCE) Xamarin Forms Renderer to build native UIs for WPF
