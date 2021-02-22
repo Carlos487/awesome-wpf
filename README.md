@@ -29,6 +29,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ### Control Suites
 
+* [Actipro WPF Controls](https://www.actiprosoftware.com/products/controls/wpf) - (PAID, COMMERCIAL) A vast toolkit of professional UI controls, including docking windows, ribbons, editors, propertygrid, code editing, charts, gauges, wizards, themes, and much more.
 * [ComponentOne Studio WPF](https://www.componentsource.com/product/componentone-studio-wpf) - (PAID, COMMERCIAL) ComponentOne Studio WPF Edition is a collection of easy to use WPF components currently including grids, charting, reporting and scheduling controls.
 * [ControlzEx](https://github.com/ControlzEx/ControlzEx) - (FREE, OPEN SOURCE) Shared Controlz for WPF
 * [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) - (FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications
