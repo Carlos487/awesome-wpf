@@ -40,6 +40,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Modern UI for WPF (MUI)](https://github.com/firstfloorsoftware/mui) - (FREE, OPEN SOURCE) A set of controls and styles converting your WPF application into a great looking Modern UI app. 
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications
 * [Nevron UI for Win/Mac](https://www.nevron.com/products-open-vision-wpf-ui-controls-overview.aspx) - (FREE) Nevron User Interface Components for WPF | NOV User Interface for .NET 
+* [Ookii Dialogs WPF](https://github.com/ookii-dialogs/ookii-dialogs-wpf) - (FREE, OPEN SOURCE) A set of dialogs for your WPF applications. Included are classes for task dialogs, credential dialog, progress dialog, and common file dialogs.
 * [Telerik UI for WPF](https://www.telerik.com/products/wpf/overview.aspx) - (PAID, COMMERCIAL) Telerik UI for WPF | Build beautiful and high-performance WPF business applications fast
 * [WPFSpark](https://github.com/ratishphilip/wpfspark) - (FREE, OPEN SOURCE) A rich UserControl library to enhance the look and feel of WPF applications. 
 
