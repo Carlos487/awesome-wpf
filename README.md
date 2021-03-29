@@ -32,6 +32,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Actipro WPF Controls](https://www.actiprosoftware.com/products/controls/wpf) - (PAID, COMMERCIAL) A vast toolkit of professional UI controls, including docking windows, ribbons, editors, propertygrid, code editing, charts, gauges, wizards, themes, and much more.
 * [ComponentOne Studio WPF](https://www.grapecity.com/componentone/wpf-ui-controls) - (PAID, COMMERCIAL) ComponentOne Studio WPF Edition is a collection of easy to use WPF components currently including grids, charting, reporting and scheduling controls.
 * [ControlzEx](https://github.com/ControlzEx/ControlzEx) - (FREE, OPEN SOURCE) Shared Controlz for WPF.
+* [DevExpress WPF UI Library](https://www.devexpress.com/products/net/controls/wpf/) - (PAID, COMMERCIAL) With over 120 UI controls and tools, the DevExpress WPF UI Library will help you deliver high-performance line of business applications that meet and exceed the needs of your enterprise.
 * [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) - (FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications.
 * [HandyControl](https://github.com/handyOrg/HandyControl) - (FREE, OPEN SOURCE) Contains some simple and commonly used WPF controls.
 * [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
@@ -41,7 +42,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
 * [Nevron UI for Win/Mac](https://www.nevron.com/products-open-vision-wpf-ui-controls-overview.aspx) - (FREE) Nevron User Interface Components for WPF | NOV User Interface for .NET. 
 * [Ookii Dialogs WPF](https://github.com/ookii-dialogs/ookii-dialogs-wpf) - (FREE, OPEN SOURCE) A set of dialogs for your WPF applications. Included are classes for task dialogs, credential dialog, progress dialog, and common file dialogs.
+* [Syncfusion WPF controls](https://www.syncfusion.com/wpf-controls) - (PAID, COMMERCIAL) The Syncfusion WPF controls is a package of over 100 modern WPF UI controls for building beautiful, high performance line-of-business WPF applications.
 * [Telerik UI for WPF](https://www.telerik.com/products/wpf/overview.aspx) - (PAID, COMMERCIAL) Telerik UI for WPF | Build beautiful and high-performance WPF business applications fast.
+* [Ultimate UI for WPF](https://www.infragistics.com/products/wpf) - (PAID, COMMERCIAL) A complete library of 100+ WPF controls, including lightning-fast grids and charts, and dynamic data visualizations. All .NET 5 compatible.
 * [WPFSpark](https://github.com/ratishphilip/wpfspark) - (FREE, OPEN SOURCE) A rich UserControl library to enhance the look and feel of WPF applications. 
 
 ### Individual Controls
