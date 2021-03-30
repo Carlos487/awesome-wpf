@@ -54,7 +54,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [ColorPickerWPF](https://github.com/drogoganor/ColorPickerWPF) - (FREE, OPEN SOURCE) A simple WPF color picker control for .NET 4.5.2 licensed under MIT. Contains two color gradient images to sample from, and custom palette support.
 * [ConsoleControl](https://github.com/dwmkerr/consolecontrol) - (FREE, OPEN SOURCE) ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) - (FREE, OPEN SOURCE) Tearable tab control for WPF, which includes docking, tool windows and MDI.
-* [Emoji.Wpf](https://github.com/samhocevar/emoji.wpf) - (FREE, OPEN SOURCE, EXPERIMENTAL) Emoji.Wpf is a proof of concept implementation of Emoji for WPF.
+* [Emoji.Wpf](https://github.com/samhocevar/emoji.wpf) - (FREE, OPEN SOURCE) Emoji.Wpf is an implementation of color Emoji rendering for WPF.
 * [ffmediaelement](https://github.com/unosquare/ffmediaelement) - (FREE, OPEN SOURCE) FME: The Advanced WPF MediaElement (based on FFmpeg)
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - (FREE, OPEN SOURCE) Fluent.Ribbon is a library that implements an Office-like user interface for the Windows Presentation Foundation (WPF).
 * [Gu.Wpf.Geometry](https://github.com/GuOrg/Gu.Wpf.Geometry) - (FREE, OPEN SOURCE) Small library with WPF geometries and shaders.
