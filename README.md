@@ -98,6 +98,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Elmish.WPF](https://github.com/elmish/Elmish.WPF) - (FREE, OPEN SOURCE) The good parts of MVVM (the data bindings) with the simplicity and robustness of an MVU architecture for the rest of your app. Never write a ViewModel class again!
 * [FluentWPF](https://github.com/sourcechord/FluentWPF) - (FREE, OPEN SOURCE) Fluent Design System for WPF.
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - (FREE, OPEN SOURCE) An easy to use drag'n'drop framework for WPF.
+* [Gu.Localization](https://github.com/GuOrg/Gu.Localization) - (FREE, OPEN SOURCE) Localization for WPF using ResourceManager.
 * [MVVM Light Toolkit](http://www.mvvmlight.net/) - (FREE, OPEN SOURCE) The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.
 * [MvvmCross](https://github.com/MvvmCross/MvvmCross) - (FREE, OPEN SOURCE) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 * [Prism](https://github.com/PrismLibrary/Prism) - (FREE, OPEN SOURCE) Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, and Xamarin Forms.
