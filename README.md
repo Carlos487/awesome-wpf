@@ -46,6 +46,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Telerik UI for WPF](https://www.telerik.com/products/wpf/overview.aspx) - (PAID, COMMERCIAL) Telerik UI for WPF | Build beautiful and high-performance WPF business applications fast.
 * [Ultimate UI for WPF](https://www.infragistics.com/products/wpf) - (PAID, COMMERCIAL) A complete library of 100+ WPF controls, including lightning-fast grids and charts, and dynamic data visualizations. All .NET 5 compatible.
 * [WPFSpark](https://github.com/ratishphilip/wpfspark) - (FREE, OPEN SOURCE) A rich UserControl library to enhance the look and feel of WPF applications. 
+* [WPF UI](https://github.com/lepoco/wpfui) - (FREE, OPEN SOURCE) Modern styles and controls for WPF application inspired by the modern Microsoft Fluent Design System. A simple way to make your application written in WPF keep up with modern design trends. Design of the interface, choice of colors and the appearance of the controls were inspired by projects made by Microsoft for Windows 11.
 
 ### Individual Controls
 
