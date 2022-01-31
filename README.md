@@ -70,6 +70,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Notifications.Wpf](https://github.com/Federerer/Notifications.Wpf) - (FREE, OPEN SOURCE) WPF toast notifications.
 * [OxyPlot](https://oxyplot.github.io/) - (FREE, OPEN SOURCE) OxyPlot is a cross-platform plotting library for .NET.
 * [PropertyTools](https://github.com/PropertyTools/PropertyTools) - (FREE, OPEN SOURCE) Custom controls for WPF: PropertyGrid, DataGrid, multi-select TreeView, ColorPicker and more.
+* [ReoGrid](https://reogrid.net) - (FREE, OPEN SOURCE) Fast and powerful .NET spreadsheet component, support data format, freeze, outline, formula calculation, chart, script execution and etc.
 * [Toggle Switch Control Library](https://github.com/ejensen/toggle-switch-control) - (FREE, OPEN SOURCE) The Toggle Switch Control Library creates highly customizable toggle switch controls for WPF and Silverlight apps.
 * [WPF AutoComplete TextBox](https://github.com/quicoli/WPF-AutoComplete-TextBox) - (FREE, OPEN SOURCE) An autocomplete TextBox for WPF.
 * [WPFCustomMessageBox](https://github.com/evanwon/WPFCustomMessageBox) - (FREE, OPEN SOURCE) WPFCustomMessageBox is a WPF clone of the native Windows/.NET MessageBox with extra features like custom button text.
