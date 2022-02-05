@@ -15,6 +15,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Courses](#courses)
 * [Tutorials (Video)](#tutorials-video)
 * [Books](#books)
+* [Sample Apps](#sample-apps)
+
 
 ## General 
 
@@ -137,6 +139,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 ](https://www.amazon.com/Pro-WPF-4-5-Presentation-Foundation/dp/1430243651/ref=dp_ob_image_bk) - (4th Edition) by Matthew MacDonald.
 * [Programming WPF](https://www.amazon.com/dp/0596510373/) - (2nd Edition) by Chris Sells.
 * [WPF 4.5 Unleashed](https://www.amazon.com/WPF-4-5-Unleashed-Adam-Nathan/dp/0672336979/) - (1st Edition) by Adam Nathan. 
+
+## Sample Apps
+
+* [SimpleTrader](https://github.com/SingletonSean/SimpleTrader) - A full stack WPF MVVM trading application.
+* [The World's Simplest C# WPF MVVM Example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - A simple MVVM example using WPF and C# 9.
 
 ## License
 
