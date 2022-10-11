@@ -8,6 +8,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 * [General](#general)
 * [UI Controls](#ui-controls)
+* [Control Suites](#control-suites)
+* [Individual Controls](#individual-controls)
 * [Fonts](#fonts)
 * [Themes](#themes)
 * [Libraries](#libraries)
@@ -54,6 +56,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 ### Individual Controls
 
 * [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - (FREE, OPEN SOURCE) AvalonEdit is the name of the WPF-based text editor in SharpDevelop 4.x.
+* [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - (FREE, OPEN SOURCE) AvaloniaEdit is the name of a fork of the orginal AvalonEdit with more features like Syntax highlighting using TextMate grammars and themes, Code folding, Code completion, Fully customizable and extensible, Line numeration, Display whitespaces EOLs and tabs, Line virtualization, Multi-caret edition, Intra-column adornments, Word wrapping, Scrolling below document, Hyperlinks.
 * [CefSharp](https://github.com/cefsharp/cefsharp) - (FREE, OPEN SOURCE) .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework.
 * [ColorPickerWPF](https://github.com/drogoganor/ColorPickerWPF) - (FREE, OPEN SOURCE) A simple WPF color picker control for .NET 4.5.2 licensed under MIT. Contains two color gradient images to sample from, and custom palette support.
 * [ConsoleControl](https://github.com/dwmkerr/consolecontrol) - (FREE, OPEN SOURCE) ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.
