@@ -65,6 +65,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Gu.Wpf.FlipView](https://github.com/GuOrg/Gu.Wpf.FlipView) - (FREE, OPEN SOURCE) A flipview for WPF, handles touch & mouse swipe.
 * [Hardcodet NotifyIcon for WPF](https://github.com/hardcodet/wpf-notifyicon) - (FREE, OPEN SOURCE) This is an implementation of a NotifyIcon (aka system tray icon or taskbar icon) for the WPF platform.
 * [Interactive Data Display for WPF](https://github.com/microsoft/InteractiveDataDisplay.WPF) - (FREE, OPEN SOURCE) Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application.
+* [LightningChart .NET](https://lightningchart.com/net-charts/) - (PAID, COMMERCIAL) High-performance WPF, WinForms & UWP Charts & Graphs.
 * [LiveCharts](https://lvcharts.net/) - (FREE, OPEN SOURCE) Simple, flexible, interactive & powerful data visualization for .Net.
 * [LoadingIndicators.WPF](https://github.com/zeluisping/LoadingIndicators.WPF) - (FREE, OPEN SOURCE) LoadingIndicators.WPF is a collection of 8 animated loading indicators for WPF compatible with MahApps.Metro.
 * [Mapsui](https://mapsui.com) - (FREE, OPEN SOURCE) Mapsui is a .NET Map component for WPF, UWP and Xamarin Android and iOS.
@@ -73,6 +74,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [OxyPlot](https://oxyplot.github.io/) - (FREE, OPEN SOURCE) OxyPlot is a cross-platform plotting library for .NET.
 * [PropertyTools](https://github.com/PropertyTools/PropertyTools) - (FREE, OPEN SOURCE) Custom controls for WPF: PropertyGrid, DataGrid, multi-select TreeView, ColorPicker and more.
 * [ReoGrid](https://reogrid.net) - (FREE, OPEN SOURCE) Fast and powerful .NET spreadsheet component, support data format, freeze, outline, formula calculation, chart, script execution and etc.
+* [SciChart for WPF](https://www.scichart.com/wpf-chart-features/) - (PAID, COMMERCIAL) Realtime, High Performance WPF Chart Library. ~50 2D & 3D WPF Chart Types and Extensive API.
 * [Toggle Switch Control Library](https://github.com/ejensen/toggle-switch-control) - (FREE, OPEN SOURCE) The Toggle Switch Control Library creates highly customizable toggle switch controls for WPF and Silverlight apps.
 * [WPF AutoComplete TextBox](https://github.com/quicoli/WPF-AutoComplete-TextBox) - (FREE, OPEN SOURCE) An autocomplete TextBox for WPF.
 * [WPFCustomMessageBox](https://github.com/evanwon/WPFCustomMessageBox) - (FREE, OPEN SOURCE) WPFCustomMessageBox is a WPF clone of the native Windows/.NET MessageBox with extra features like custom button text.
