@@ -82,8 +82,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [WpfHexEditorControl](https://github.com/abbaye/WpfHexEditorControl) - (FREE, OPEN SOURCE) Wpf Hexeditor is a fast and fully customisable user control for editing file or stream as hexadecimal. Can be used in Wpf or WinForm application.
 * [WPFToastNotification](https://github.com/muhammad-magdy/WPFToastNotification) - (FREE, OPEN SOURCE) Fancy toast notification for WPF applications easy to use and support MVVM pattern.
 * [Wpf.Notifications](https://github.com/Enterwell/Wpf.Notifications) - (FREE, OPEN SOURCE) WPF notifications UI controls (as seen in VS Code).
-* [WPF-Math](https://github.com/ForNeVeR/wpf-math) - (FREE, OPEN SOURCE) WPF-Math is a .NET library for rendering mathematical formulae using the LaTeX typsetting style, for the WPF framework.
 * [WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) - (FREE, OPEN SOURCE) A library to quickly build DirectShow media player controls in WPF. The kit comes with a video player.MediaUriElement (a WPF MediaElement replacement), a VideoCaptureElement for web cams and a DVDPlayerElement.
+* [Xaml-Math](https://github.com/ForNeVeR/xaml-math) - (FREE, OPEN SOURCE) XAML-Math is a collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks.
 
 ## Fonts
 
