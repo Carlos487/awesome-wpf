@@ -88,6 +88,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 ## Fonts
 
 * [FontAwesome5](https://github.com/MartinTopfstedt/FontAwesome5) - (FREE, OPEN SOURCE) WPF (.Net and .Net Core 3.0) and UWP controls for the iconic SVG, font, and CSS toolkit Font Awesome 5. Current Version: v5.12.0
+* [FontAwesome6](https://github.com/MartinTopfstedt/FontAwesome6) - (FREE, OPEN SOURCE) WPF (.Net and .Net Core), UWP and WinUI controls for the web's most popular icon set and toolkit. Current Version: 6.2.0
 * [FontAwesome.Sharp](https://github.com/awesome-inc/FontAwesome.Sharp) - (FREE, OPEN SOURCE) A library for embbeding Font Awesome icons in WPF & Windows Forms applications via NuGet. Inspired by ioachim/fontawesome.wpf (BitBucket) and Using Font Icons (CodeProject).
 * [Font-Awesome-WPF 4.7](https://github.com/charri/Font-Awesome-WPF/blob/master/README-WPF.md) - (FREE, OPEN SOURCE) WPF controls for the iconic font and CSS toolkit Font Awesome. Current Version: v4.7.0
 * [wpf.fontawesome5](https://github.com/SubEthaSensOMatic/wpf.fontawesome5) - (FREE, OPEN SOURCE) With wpf.fontawesome5 you can use the popular icon library FontAwesome 5.12.0 within your WPF applications.
