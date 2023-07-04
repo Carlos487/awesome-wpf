@@ -84,6 +84,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Wpf.Notifications](https://github.com/Enterwell/Wpf.Notifications) - (FREE, OPEN SOURCE) WPF notifications UI controls (as seen in VS Code).
 * [WPF-Math](https://github.com/ForNeVeR/wpf-math) - (FREE, OPEN SOURCE) WPF-Math is a .NET library for rendering mathematical formulae using the LaTeX typsetting style, for the WPF framework.
 * [WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) - (FREE, OPEN SOURCE) A library to quickly build DirectShow media player controls in WPF. The kit comes with a video player.MediaUriElement (a WPF MediaElement replacement), a VideoCaptureElement for web cams and a DVDPlayerElement.
+* [NOV Chart for Wpf](https://www.nevron.com/products-open-vision-nov-chart-control-overview) - (PAID COMMERCIAL) Charting component for WPF. Features a complete set of charting types, advanced axes and blazing fast performance.
+* [NOV Diagram for Wpf](https://www.nevron.com/products-open-vision-nov-diagram-control-overview) - (PAID COMMERCIAL) Diagramming Framework for WPF. Integrate Microsoft Visio-like functionality in your .NET application.
+* [NOV Rich Text Editor for Wpf](https://www.nevron.com/products-open-vision-nov-rich-text-editor-control-overview) - (PAID COMMERCIAL) An advanced solution for any application that needs solid rich text processing, visualization, or document editing capabilities.
 
 ## Fonts
 
