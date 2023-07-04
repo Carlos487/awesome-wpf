@@ -82,15 +82,16 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [WpfHexEditorControl](https://github.com/abbaye/WpfHexEditorControl) - (FREE, OPEN SOURCE) Wpf Hexeditor is a fast and fully customisable user control for editing file or stream as hexadecimal. Can be used in Wpf or WinForm application.
 * [WPFToastNotification](https://github.com/muhammad-magdy/WPFToastNotification) - (FREE, OPEN SOURCE) Fancy toast notification for WPF applications easy to use and support MVVM pattern.
 * [Wpf.Notifications](https://github.com/Enterwell/Wpf.Notifications) - (FREE, OPEN SOURCE) WPF notifications UI controls (as seen in VS Code).
-* [WPF-Math](https://github.com/ForNeVeR/wpf-math) - (FREE, OPEN SOURCE) WPF-Math is a .NET library for rendering mathematical formulae using the LaTeX typsetting style, for the WPF framework.
 * [WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) - (FREE, OPEN SOURCE) A library to quickly build DirectShow media player controls in WPF. The kit comes with a video player.MediaUriElement (a WPF MediaElement replacement), a VideoCaptureElement for web cams and a DVDPlayerElement.
+* [Xaml-Math](https://github.com/ForNeVeR/xaml-math) - (FREE, OPEN SOURCE) XAML-Math is a collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks.
 * [NOV Chart for Wpf](https://www.nevron.com/products-open-vision-nov-chart-control-overview) - (PAID COMMERCIAL) Charting component for WPF. Features a complete set of charting types, advanced axes and blazing fast performance.
 * [NOV Diagram for Wpf](https://www.nevron.com/products-open-vision-nov-diagram-control-overview) - (PAID COMMERCIAL) Diagramming Framework for WPF. Integrate Microsoft Visio-like functionality in your .NET application.
 * [NOV Rich Text Editor for Wpf](https://www.nevron.com/products-open-vision-nov-rich-text-editor-control-overview) - (PAID COMMERCIAL) An advanced solution for any application that needs solid rich text processing, visualization, or document editing capabilities.
 
 ## Fonts
 
-* [FontAwesome5](https://github.com/MartinTopfstedt/FontAwesome5) - (FREE, OPEN SOURCE) WPF (.Net and .Net Core 3.0) and UWP controls for the iconic SVG, font, and CSS toolkit Font Awesome 5. Current Version: v5.12.0
+* [FontAwesome5](https://github.com/MartinTopfstedt/FontAwesome5) - (FREE, OPEN SOURCE) WPF (.Net and .Net Core) and UWP/WinUI controls for the iconic SVG, font, and CSS toolkit Font Awesome 5. Current Version: v5.15.4
+* [FontAwesome6](https://github.com/MartinTopfstedt/FontAwesome6) - (FREE, OPEN SOURCE) WPF (.Net and .Net Core), UWP and WinUI controls for the web's most popular icon set and toolkit. Current Version: 6.2.0
 * [FontAwesome.Sharp](https://github.com/awesome-inc/FontAwesome.Sharp) - (FREE, OPEN SOURCE) A library for embbeding Font Awesome icons in WPF & Windows Forms applications via NuGet. Inspired by ioachim/fontawesome.wpf (BitBucket) and Using Font Icons (CodeProject).
 * [Font-Awesome-WPF 4.7](https://github.com/charri/Font-Awesome-WPF/blob/master/README-WPF.md) - (FREE, OPEN SOURCE) WPF controls for the iconic font and CSS toolkit Font Awesome. Current Version: v4.7.0
 * [wpf.fontawesome5](https://github.com/SubEthaSensOMatic/wpf.fontawesome5) - (FREE, OPEN SOURCE) With wpf.fontawesome5 you can use the popular icon library FontAwesome 5.12.0 within your WPF applications.
