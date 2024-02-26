@@ -70,6 +70,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [LoadingIndicators.WPF](https://github.com/zeluisping/LoadingIndicators.WPF) - (FREE, OPEN SOURCE) LoadingIndicators.WPF is a collection of 8 animated loading indicators for WPF compatible with MahApps.Metro.
 * [Mapsui](https://mapsui.com) - (FREE, OPEN SOURCE) Mapsui is a .NET Map component for WPF, UWP and Xamarin Android and iOS.
 * [mpv.net](https://github.com/stax76/mpv.net) - (FREE, OPEN SOURCE) mpv.net is a modern media player for Windows that works just like mpv.
+* [NOV Chart for Wpf](https://www.nevron.com/products-open-vision-nov-chart-control-overview) - (PAID, COMMERCIAL) Charting component for WPF. Features a complete set of charting types, advanced axes and blazing fast performance.
+* [NOV Diagram for Wpf](https://www.nevron.com/products-open-vision-nov-diagram-control-overview) - (PAID, COMMERCIAL) Diagramming Framework for WPF. Integrate Microsoft Visio-like functionality in your .NET application.
+* [NOV Rich Text Editor for Wpf](https://www.nevron.com/products-open-vision-nov-rich-text-editor-control-overview) - (PAID, COMMERCIAL) An advanced solution for any application that needs solid rich text processing, visualization, or document editing capabilities.
 * [Notifications.Wpf](https://github.com/Federerer/Notifications.Wpf) - (FREE, OPEN SOURCE) WPF toast notifications.
 * [OxyPlot](https://oxyplot.github.io/) - (FREE, OPEN SOURCE) OxyPlot is a cross-platform plotting library for .NET.
 * [PropertyTools](https://github.com/PropertyTools/PropertyTools) - (FREE, OPEN SOURCE) Custom controls for WPF: PropertyGrid, DataGrid, multi-select TreeView, ColorPicker and more.
@@ -84,9 +87,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Wpf.Notifications](https://github.com/Enterwell/Wpf.Notifications) - (FREE, OPEN SOURCE) WPF notifications UI controls (as seen in VS Code).
 * [WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) - (FREE, OPEN SOURCE) A library to quickly build DirectShow media player controls in WPF. The kit comes with a video player.MediaUriElement (a WPF MediaElement replacement), a VideoCaptureElement for web cams and a DVDPlayerElement.
 * [Xaml-Math](https://github.com/ForNeVeR/xaml-math) - (FREE, OPEN SOURCE) XAML-Math is a collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks.
-* [NOV Chart for Wpf](https://www.nevron.com/products-open-vision-nov-chart-control-overview) - (PAID COMMERCIAL) Charting component for WPF. Features a complete set of charting types, advanced axes and blazing fast performance.
-* [NOV Diagram for Wpf](https://www.nevron.com/products-open-vision-nov-diagram-control-overview) - (PAID COMMERCIAL) Diagramming Framework for WPF. Integrate Microsoft Visio-like functionality in your .NET application.
-* [NOV Rich Text Editor for Wpf](https://www.nevron.com/products-open-vision-nov-rich-text-editor-control-overview) - (PAID COMMERCIAL) An advanced solution for any application that needs solid rich text processing, visualization, or document editing capabilities.
 
 ## Fonts
 
