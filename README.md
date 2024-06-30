@@ -67,7 +67,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Hardcodet NotifyIcon for WPF](https://github.com/hardcodet/wpf-notifyicon) - (FREE, OPEN SOURCE) This is an implementation of a NotifyIcon (aka system tray icon or taskbar icon) for the WPF platform.
 * [Interactive Data Display for WPF](https://github.com/microsoft/InteractiveDataDisplay.WPF) - (FREE, OPEN SOURCE) Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application.
 * [LightningChart .NET](https://lightningchart.com/net-charts/) - (PAID, COMMERCIAL) High-performance WPF, WinForms & UWP Charts & Graphs.
-* [LiveCharts](https://lvcharts.net/) - (FREE, OPEN SOURCE) Simple, flexible, interactive & powerful data visualization for .Net.
+* [LiveCharts2](https://livecharts.dev/) - (FREE, OPEN SOURCE) Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 * [LoadingIndicators.WPF](https://github.com/zeluisping/LoadingIndicators.WPF) - (FREE, OPEN SOURCE) LoadingIndicators.WPF is a collection of 8 animated loading indicators for WPF compatible with MahApps.Metro.
 * [Mapsui](https://mapsui.com) - (FREE, OPEN SOURCE) Mapsui is a .NET Map component for WPF, UWP and Xamarin Android and iOS.
 * [mpv.net](https://github.com/stax76/mpv.net) - (FREE, OPEN SOURCE) mpv.net is a modern media player for Windows that works just like mpv.
@@ -128,7 +128,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [XAML Viewer](https://github.com/huangjia2107/XamlViewer) - (FREE, OPEN SOURCE) XAML Viewer is a lightweight XAML editor.
 
 ## Courses
-
+e
 * [Advanced Reusable Styles and Themes in WPF](https://www.pluralsight.com/courses/wpf-advanced-reusable-styles-themes) - (PAID, PLURALSIGHT) Take your WPF XAML skills to the next level by learning how to make modern reusable styles and themes with runtime theme switching. If you've ever wanted to implement light and dark themes in your apps, then this course will show you how.
 * [Windows Presentation Foundation Masterclass](https://www.udemy.com/course/windows-presentation-foundation-masterclass/) - (PAID, UDEMY) Leverage WPF with C# and XAML to build real world skills with Azure, REST, MVVM and Machine Learning.
 * [WPF Data Binding in Depth](https://www.pluralsight.com/courses/wpf-data-binding-in-depth) - (PAID, PLURALSIGHT) Data binding is one of the most powerful and important capabilities in WPF applications for building data-driven, loosely coupled, maintainable applications. In this course you will learn how to use the end-to-end capabilities of data binding in WPF including both the most common features as well as more advanced capabilities.
