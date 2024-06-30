@@ -107,6 +107,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 ## Libraries
 
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - (FREE, OPEN SOURCE) A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
+* [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) - (FREE, OPEN SOURCE) A simple keyboard/mouse event handler for WPF applications.
 * [Elmish.WPF](https://github.com/elmish/Elmish.WPF) - (FREE, OPEN SOURCE) The good parts of MVVM (the data bindings) with the simplicity and robustness of an MVU architecture for the rest of your app. Never write a ViewModel class again!
 * [FluentWPF](https://github.com/sourcechord/FluentWPF) - (FREE, OPEN SOURCE) Fluent Design System for WPF.
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - (FREE, OPEN SOURCE) An easy to use drag'n'drop framework for WPF.
