@@ -128,7 +128,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [XAML Viewer](https://github.com/huangjia2107/XamlViewer) - (FREE, OPEN SOURCE) XAML Viewer is a lightweight XAML editor.
 
 ## Courses
-e
+
 * [Advanced Reusable Styles and Themes in WPF](https://www.pluralsight.com/courses/wpf-advanced-reusable-styles-themes) - (PAID, PLURALSIGHT) Take your WPF XAML skills to the next level by learning how to make modern reusable styles and themes with runtime theme switching. If you've ever wanted to implement light and dark themes in your apps, then this course will show you how.
 * [Windows Presentation Foundation Masterclass](https://www.udemy.com/course/windows-presentation-foundation-masterclass/) - (PAID, UDEMY) Leverage WPF with C# and XAML to build real world skills with Azure, REST, MVVM and Machine Learning.
 * [WPF Data Binding in Depth](https://www.pluralsight.com/courses/wpf-data-binding-in-depth) - (PAID, PLURALSIGHT) Data binding is one of the most powerful and important capabilities in WPF applications for building data-driven, loosely coupled, maintainable applications. In this course you will learn how to use the end-to-end capabilities of data binding in WPF including both the most common features as well as more advanced capabilities.
@@ -142,9 +142,11 @@ e
 
 ## Books
 
-* [Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 ](https://www.amazon.com/Pro-WPF-4-5-Presentation-Foundation/dp/1430243651/ref=dp_ob_image_bk) - (4th Edition) by Matthew MacDonald.
+* [Mastering Windows Presentation Foundation: Build responsive UIs for desktop applications with WPF](https://www.amazon.com/dp/B085G7BHS8/) - (2nd Edition) - Sheridan Yuen
+* [Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 ](https://www.amazon.com/dp/1430243651/) - (4th Edition) by Matthew MacDonald.
 * [Programming WPF](https://www.amazon.com/dp/0596510373/) - (2nd Edition) by Chris Sells.
-* [WPF 4.5 Unleashed](https://www.amazon.com/WPF-4-5-Unleashed-Adam-Nathan/dp/0672336979/) - (1st Edition) by Adam Nathan. 
+* [Windows Presentation Foundation Development Cookbook: 100 recipes to build rich desktop client applications on Windows](https://www.amazon.com/dp/1788399803) - by Kunal Chowdhury
+* [WPF 4.5 Unleashed](https://www.amazon.com/dp/0672336979/) - (1st Edition) by Adam Nathan. 
 
 ## Sample Apps
 
