@@ -142,10 +142,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ## Books
 
-* [Mastering Windows Presentation Foundation: Build responsive UIs for desktop applications with WPF](https://www.amazon.com/dp/B085G7BHS8/) - (2nd Edition) - Sheridan Yuen
+* [Mastering Windows Presentation Foundation: Build responsive UIs for desktop applications with WPF](https://www.amazon.com/dp/B085G7BHS8/) - (2nd Edition) by Sheridan Yuen
 * [Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 ](https://www.amazon.com/dp/1430243651/) - (4th Edition) by Matthew MacDonald.
 * [Programming WPF](https://www.amazon.com/dp/0596510373/) - (2nd Edition) by Chris Sells.
-* [Windows Presentation Foundation Development Cookbook: 100 recipes to build rich desktop client applications on Windows](https://www.amazon.com/dp/1788399803) - by Kunal Chowdhury
+* [Windows Presentation Foundation Development Cookbook: 100 recipes to build rich desktop client applications on Windows](https://www.amazon.com/dp/1788399803) - (1st Edition) by Kunal Chowdhury
 * [WPF 4.5 Unleashed](https://www.amazon.com/dp/0672336979/) - (1st Edition) by Adam Nathan. 
 
 ## Sample Apps
