@@ -4,6 +4,7 @@ A collection of awesome WPF resources, libraries and UI controls.
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for WPF desktop development workflow orchestration, automated Windows UI management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 * [General](#general)
