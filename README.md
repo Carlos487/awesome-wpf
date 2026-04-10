@@ -150,6 +150,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ## Sample Apps
 
+* [ImageMinify](https://github.com/Moresl/ImageMinify) - Lightweight batch image compression tool with Fluent Design UI, supporting JPEG/PNG/WebP.
 * [SimpleTrader](https://github.com/SingletonSean/SimpleTrader) - A full stack WPF MVVM trading application.
 * [The World's Simplest C# WPF MVVM Example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - A simple MVVM example using WPF and C# 9.
 
