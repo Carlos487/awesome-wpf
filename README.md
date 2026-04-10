@@ -20,13 +20,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ## General 
 
-* [Windows Presentation Foundation](https://docs.microsoft.com/en-us/dotnet/framework/wpf/) - Windows Presentation Foundation | Microsoft Docs.
+* [Windows Presentation Foundation](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) - Windows Presentation Foundation for .NET documentation | Microsoft Learn.
 * [Windows Presentation Foundation (WPF) | Github](https://github.com/dotnet/wpf) - Windows Presentation Foundation Github Repository | WPF is a .NET Core UI framework for building Windows desktop applications.
 * [How to upgrade a WPF desktop app to .NET 8](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/migration/?view=netdesktop-8.0) This article describes how to upgrade a Windows Presentation Foundation (WPF) desktop app to .NET 8. 
 * [WPF-Samples](https://github.com/microsoft/WPF-Samples) - Microsoft Repository for WPF related samples.
-* [WPF Tutorial.net](https://www.wpftutorial.net/) - The tutorials will show you how to create the next generation user experience.
-* [The complete WPF tutorial](https://www.wpf-tutorial.com/) - WPF tutorial, currently consisting of 125 articles.
-* [Xamarin Forms WPF - Preview](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/other/wpf) - Xamarin.Forms now has preview support for the Windows Presentation Foundation (WPF). 
+* [The complete WPF tutorial](https://www.wpf-tutorial.com/) - WPF tutorial, currently consisting of 126 articles.
 
 ## UI Controls
 
@@ -153,6 +151,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 * [SimpleTrader](https://github.com/SingletonSean/SimpleTrader) - A full stack WPF MVVM trading application.
 * [The World's Simplest C# WPF MVVM Example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - A simple MVVM example using WPF and C# 9.
+
+## Legacy or Experimental
+
+* [WPF Tutorial.net](https://web.archive.org/web/20240703143934/https://www.wpftutorial.net/) - (Unavailable - Wayback Machine link) The tutorials will show you how to create the next generation user experience.
+* [Xamarin Forms WPF - Preview](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/other/wpf) - Xamarin.Forms now has preview support for the Windows Presentation Foundation (WPF). 
 
 ## License
 
