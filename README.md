@@ -61,10 +61,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [ConsoleControl](https://github.com/dwmkerr/consolecontrol) - (FREE, OPEN SOURCE) ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) - (FREE, OPEN SOURCE) Tearable tab control for WPF, which includes docking, tool windows and MDI.
 * [Emoji.Wpf](https://github.com/samhocevar/emoji.wpf) - (FREE, OPEN SOURCE) Emoji.Wpf is an implementation of color Emoji rendering for WPF.
-* [ffmediaelement](https://github.com/unosquare/ffmediaelement) - (FREE, OPEN SOURCE) FME: The Advanced WPF MediaElement (based on FFmpeg)
+* [ffmediaelement](https://github.com/unosquare/ffmediaelement) - (FREE, OPEN SOURCE) FME: The Advanced WPF MediaElement (based on FFmpeg).
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - (FREE, OPEN SOURCE) Fluent.Ribbon is a library that implements an Office-like user interface for the Windows Presentation Foundation (WPF).
-* [Gu.Wpf.Geometry](https://github.com/GuOrg/Gu.Wpf.Geometry) - (FREE, OPEN SOURCE) Small library with WPF geometries and shaders.
 * [Gu.Wpf.FlipView](https://github.com/GuOrg/Gu.Wpf.FlipView) - (FREE, OPEN SOURCE) A flipview for WPF, handles touch & mouse swipe.
+* [Gu.Wpf.Geometry](https://github.com/GuOrg/Gu.Wpf.Geometry) - (FREE, OPEN SOURCE) Small library with WPF geometries and shaders.
 * [Hardcodet NotifyIcon for WPF](https://github.com/hardcodet/wpf-notifyicon) - (FREE, OPEN SOURCE) This is an implementation of a NotifyIcon (aka system tray icon or taskbar icon) for the WPF platform.
 * [Interactive Data Display for WPF](https://github.com/microsoft/InteractiveDataDisplay.WPF) - (FREE, OPEN SOURCE) Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application.
 * [LightningChart .NET](https://lightningchart.com/net-charts/) - (PAID, COMMERCIAL) High-performance WPF, WinForms & UWP Charts & Graphs.
@@ -72,10 +72,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [LoadingIndicators.WPF](https://github.com/zeluisping/LoadingIndicators.WPF) - (FREE, OPEN SOURCE) LoadingIndicators.WPF is a collection of 8 animated loading indicators for WPF compatible with MahApps.Metro.
 * [Mapsui](https://mapsui.com) - (FREE, OPEN SOURCE) Mapsui is a .NET Map component for WPF, UWP and Xamarin Android and iOS.
 * [mpv.net](https://github.com/stax76/mpv.net) - (FREE, OPEN SOURCE) mpv.net is a modern media player for Windows that works just like mpv.
+* [Notifications.Wpf](https://github.com/Federerer/Notifications.Wpf) - (FREE, OPEN SOURCE) WPF toast notifications.
 * [NOV Chart for Wpf](https://www.nevron.com/products-open-vision-nov-chart-control-overview) - (PAID, COMMERCIAL) Charting component for WPF. Features a complete set of charting types, advanced axes and blazing fast performance.
 * [NOV Diagram for Wpf](https://www.nevron.com/products-open-vision-nov-diagram-control-overview) - (PAID, COMMERCIAL) Diagramming Framework for WPF. Integrate Microsoft Visio-like functionality in your .NET application.
 * [NOV Rich Text Editor for Wpf](https://www.nevron.com/products-open-vision-nov-rich-text-editor-control-overview) - (PAID, COMMERCIAL) An advanced solution for any application that needs solid rich text processing, visualization, or document editing capabilities.
-* [Notifications.Wpf](https://github.com/Federerer/Notifications.Wpf) - (FREE, OPEN SOURCE) WPF toast notifications.
 * [OxyPlot](https://oxyplot.github.io/) - (FREE, OPEN SOURCE) OxyPlot is a cross-platform plotting library for .NET.
 * [PropertyTools](https://github.com/PropertyTools/PropertyTools) - (FREE, OPEN SOURCE) Custom controls for WPF: PropertyGrid, DataGrid, multi-select TreeView, ColorPicker and more.
 * [ReoGrid](https://reogrid.net) - (FREE, OPEN SOURCE) Fast and powerful .NET spreadsheet component, support data format, freeze, outline, formula calculation, chart, script execution and etc.
@@ -135,7 +135,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [WPF Data Binding in Depth](https://www.pluralsight.com/courses/wpf-data-binding-in-depth) - (PAID, PLURALSIGHT) Data binding is one of the most powerful and important capabilities in WPF applications for building data-driven, loosely coupled, maintainable applications. In this course you will learn how to use the end-to-end capabilities of data binding in WPF including both the most common features as well as more advanced capabilities.
 * [WPF MVVM in Depth](https://www.pluralsight.com/courses/wpf-mvvm-in-depth) - (PAID, PLURALSIGHT) This course provides end-to-end coverage of what you need to know to effectively apply the MVVM pattern to WPF applications.
 * [WPF Productivity Playbook](https://www.pluralsight.com/courses/wpf-productivity-playbook) - (PAID, PLURALSIGHT) This course contains a collection of tips, tricks, and techniques that will help you become a more productive and confident WPF developer, able to leverage the full power of the platform.
-* [WPF & XAML: Build 10 WPF applications (C#) in 2020](https://www.udemy.com/course/wpf-xaml-c-sharp/) - (PAID, UDEMY) Learn XAML and WPF development on 10 projects. WPF/C# programming even for beginners
+* [WPF & XAML: Build 10 WPF applications (C#) in 2020](https://www.udemy.com/course/wpf-xaml-c-sharp/) - (PAID, UDEMY) Learn XAML and WPF development on 10 projects. WPF/C# programming even for beginners.
 
 ## Tutorials (Video)
 
