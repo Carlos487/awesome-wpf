@@ -16,6 +16,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Tutorials (Video)](#tutorials-video)
 * [Books](#books)
 * [Sample Apps](#sample-apps)
+* [Legacy or Experimental](#legacy-or-experimental)
 
 
 ## General 
