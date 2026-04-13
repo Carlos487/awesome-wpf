@@ -25,6 +25,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 * [Windows Presentation Foundation](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) - Windows Presentation Foundation for .NET documentation | Microsoft Learn.
 * [Windows Presentation Foundation (WPF) | GitHub](https://github.com/dotnet/wpf) - Windows Presentation Foundation GitHub Repository | WPF is a .NET Core UI framework for building Windows desktop applications.
+* [What's new in WPF for .NET 10](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/whats-new/net100)
 * [How to upgrade a WPF desktop app to .NET 8](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/migration/?view=netdesktop-8.0) This article describes how to upgrade a Windows Presentation Foundation (WPF) desktop app to .NET 8. 
 * [WPF-Samples](https://github.com/microsoft/WPF-Samples) - Microsoft Repository for WPF related samples.
 * [The complete WPF tutorial](https://www.wpf-tutorial.com/) - WPF tutorial, currently consisting of 126 articles.
@@ -102,7 +103,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 ## Themes
 
 * [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
-* [Material Design In XAML Toolkit](http://materialdesigninxaml.net/) - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.
+* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
 * [Wpf Office Theme](https://github.com/TanyaPristupova/WpfOfficeTheme) - (FREE, OPEN SOURCE) WPF theme influenced by minimalistic MS Office style.
 
@@ -158,7 +159,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 ## Legacy or Experimental
 
 * [WPF Tutorial.net](https://web.archive.org/web/20240703143934/https://www.wpftutorial.net/) - (Unavailable - Wayback Machine link) The tutorials will show you how to create the next generation user experience.
-* [Xamarin Forms WPF - Preview](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/other/wpf) - Xamarin.Forms now has preview support for the Windows Presentation Foundation (WPF). 
+* [Xamarin Forms WPF - Preview](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/other/wpf) - Xamarin.Forms now has preview support for the Windows Presentation Foundation (WPF).
 
 ## License
 
