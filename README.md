@@ -42,7 +42,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 - [HandyControl](https://github.com/handyOrg/HandyControl) - (FREE, OPEN SOURCE) Contains some simple and commonly used WPF controls.
 - [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [Material Design Extensions](https://github.com/spiegelp/MaterialDesignExtensions) - (FREE, OPEN SOURCE) Material Design Extensions is based on Material Design in XAML Toolkit to provide additional controls and features for WPF apps.
-- [Material Design In XAML Toolkit](http://materialdesigninxaml.net/) - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.
+- [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - (FREE, OPEN SOURCE) Google's Material Design in XAML & WPF, for C# & VB.Net.
 - [Modern UI for WPF (MUI)](https://github.com/firstfloorsoftware/mui) - (FREE, OPEN SOURCE) A set of controls and styles converting your WPF application into a great looking Modern UI app.
 - [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
 - [Nevron UI for Win/Mac](https://www.nevron.com/products-open-vision-wpf-ui-controls-overview.aspx) - (FREE) Nevron User Interface Components for WPF | NOV User Interface for .NET.
