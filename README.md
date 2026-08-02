@@ -45,6 +45,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 - [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - (FREE, OPEN SOURCE) Google's Material Design in XAML & WPF, for C# & VB.Net.
 - [Modern UI for WPF (MUI)](https://github.com/firstfloorsoftware/mui) - (FREE, OPEN SOURCE) A set of controls and styles converting your WPF application into a great looking Modern UI app.
 - [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
+- [MosaicUIWpf](https://github.com/blakepell/MosaicUIWpf) - (FREE, OPEN SOURCE) Mosaic UI for WPF is a control library that seeks to provide compartmentalized controls.
 - [Nevron UI for Win/Mac](https://www.nevron.com/products-open-vision-wpf-ui-controls-overview.aspx) - (FREE) Nevron User Interface Components for WPF | NOV User Interface for .NET.
 - [Ookii Dialogs WPF](https://github.com/ookii-dialogs/ookii-dialogs-wpf) - (FREE, OPEN SOURCE) A set of dialogs for your WPF applications. Included are classes for task dialogs, credential dialog, progress dialog, and common file dialogs.
 - [Syncfusion WPF controls](https://www.syncfusion.com/wpf-controls) - (PAID, COMMERCIAL) The Syncfusion WPF controls is a package of over 100 modern WPF UI controls for building beautiful, high performance line-of-business WPF applications.
