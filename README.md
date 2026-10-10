@@ -40,7 +40,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 - [DevExpress WPF UI Library](https://www.devexpress.com/products/net/controls/wpf/) - (PAID, COMMERCIAL) With over 120 UI controls and tools, the DevExpress WPF UI Library will help you deliver high-performance line of business applications that meet and exceed the needs of your enterprise.
 - [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) - (FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications.
 - [HandyControl](https://github.com/handyOrg/HandyControl) - (FREE, OPEN SOURCE) Contains some simple and commonly used WPF controls.
-- [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+- [Mahapps.Metro](https://github.com/MahApps/MahApps.Metro) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [Material Design Extensions](https://github.com/spiegelp/MaterialDesignExtensions) - (FREE, OPEN SOURCE) Material Design Extensions is based on Material Design in XAML Toolkit to provide additional controls and features for WPF apps.
 - [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - (FREE, OPEN SOURCE) Google's Material Design in XAML & WPF, for C# & VB.Net.
 - [Modern UI for WPF (MUI)](https://github.com/firstfloorsoftware/mui) - (FREE, OPEN SOURCE) A set of controls and styles converting your WPF application into a great looking Modern UI app.
@@ -102,7 +102,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ## Themes
 
-- [Mahapps.Metro](https://mahapps.com/) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+- [Mahapps.Metro](https://github.com/MahApps/MahApps.Metro) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.
 - [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
 - [Wpf Office Theme](https://github.com/TanyaPristupova/WpfOfficeTheme) - (FREE, OPEN SOURCE) WPF theme influenced by minimalistic MS Office style.
@@ -118,7 +118,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 - [FluentWPF](https://github.com/sourcechord/FluentWPF) - (FREE, OPEN SOURCE) Fluent Design System for WPF.
 - [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - (FREE, OPEN SOURCE) An easy to use drag'n'drop framework for WPF.
 - [Gu.Localization](https://github.com/GuOrg/Gu.Localization) - (FREE, OPEN SOURCE) Localization for WPF using ResourceManager.
-- [MVVM Light Toolkit](http://www.mvvmlight.net/) - (FREE, OPEN SOURCE) The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.
+- [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - (FREE, OPEN SOURCE) The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross) - (FREE, OPEN SOURCE) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [Prism](https://github.com/PrismLibrary/Prism) - (FREE, OPEN SOURCE) Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, and Xamarin Forms.
 - [ReactiveUI](https://reactiveui.net/) - (FREE, OPEN SOURCE) An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms!
@@ -172,4 +172,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 ## Credits and sources
 
 [Top 10 WPF Libraries in 2017](https://nugetmusthaves.com/article/top-wpf-libraries)
-[6 Best WPF & XAML Courses & Tutorials](https://digitaldefynd.com/best-wpf-xaml-courses/)
