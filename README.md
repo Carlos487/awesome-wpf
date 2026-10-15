@@ -159,6 +159,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 - [SimpleTrader](https://github.com/SingletonSean/SimpleTrader) - A full stack WPF MVVM trading application.
 - [The World's Simplest C# WPF MVVM Example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - A simple MVVM example using WPF and C# 9.
+- [Ringside](https://github.com/KNIGHT-AI-AV/ringside) - An always-on-top WPF widget on .NET 8 with custom-drawn ring gauges, a tray icon, per-monitor DPI handling and a Velopack installer. It shows Claude Code and Codex usage limits.
 
 ## Legacy or Experimental
 
