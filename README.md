@@ -159,6 +159,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 - [SimpleTrader](https://github.com/SingletonSean/SimpleTrader) - A full stack WPF MVVM trading application.
 - [The World's Simplest C# WPF MVVM Example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - A simple MVVM example using WPF and C# 9.
+- [Session Dock](https://github.com/paragpandyareal/session-dock) - A WPF app bar docked to the screen edge that shows live Claude Code session status, with a tray icon and animated pixel sprites.
 
 ## Legacy or Experimental
 
