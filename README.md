@@ -157,6 +157,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ## Sample Apps
 
+- [Nubis](https://github.com/windevase/nubis) - Tabbed SSH, RDP and SFTP client for Windows on .NET 10 WPF, with xterm.js in WebView2 and cloud server import from AWS, GCP, Azure, Tencent Cloud and OCI.
 - [SimpleTrader](https://github.com/SingletonSean/SimpleTrader) - A full stack WPF MVVM trading application.
 - [The World's Simplest C# WPF MVVM Example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - A simple MVVM example using WPF and C# 9.
 
