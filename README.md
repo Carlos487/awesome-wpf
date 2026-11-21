@@ -127,6 +127,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 - [WPF Animated GIF](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - (FREE, OPEN SOURCE) A simple library to display animated GIF images in WPF, usable in XAML or in code.
 - [WPFTabTip](https://github.com/maximcus/WPFTabTip) - (FREE, OPEN SOURCE) Simple TabTip / Virtual Keyboard integration for WPF apps on Win 8.1 and Win 10.
 - [Xamarin.Forms.Platform.WPF](https://www.nuget.org/packages/Xamarin.Forms.Platform.WPF/) - (FREE, OPEN SOURCE) Xamarin Forms Renderer to build native UIs for WPF.
+- [ZYC.Framework](https://github.com/ZiYuCai1984/ZYC.Framework) - (FREE, OPEN SOURCE) A modular, extensible desktop application framework for WPF on .NET 10. Modules plug in tabs, menus, notifications and background tasks, with Autofac DI, .NET Aspire integration and Blazor/WebView2 interop.
 
 ## Utilities
 
